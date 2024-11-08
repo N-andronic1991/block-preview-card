@@ -119,3 +119,8 @@ img {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+
+.attribution a:hover,
+.attribution a:focus {
+  color: blue;
+}
