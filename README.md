@@ -9,8 +9,8 @@ My challenge is to build out this blog preview card and get it looking as close 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/N-andronic1991/block-preview-card)
-- Live Site URL: [Add live site URL here](https://n-andronic1991.github.io/block-preview-card/)
+- Solution URL: (https://github.com/N-andronic1991/block-preview-card)
+- Live Site URL: (https://n-andronic1991.github.io/block-preview-card/)
 
 ### Built with
 
