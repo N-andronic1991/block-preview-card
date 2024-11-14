@@ -9,8 +9,8 @@ My challenge is to build out this blog preview card and get it looking as close 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/N-andronic1991/block-preview-card)
-- Live Site URL: [Add live site URL here](https://n-andronic1991.github.io/block-preview-card/)
+- Solution URL:(https://github.com/N-andronic1991/block-preview-card)
+- Live Site URL: (https://n-andronic1991.github.io/block-preview-card/)
 
 ### Built with
 
@@ -21,9 +21,10 @@ My challenge is to build out this blog preview card and get it looking as close 
 
 ### What I learned
 
-I've been practicing foundational HTML and CSS skills on Frontend Mentor by building a simple centered card component. My focus has been on responsive design, ensuring that the card and its contents (image and text) adjust for different screen sizes. Through this, I've developed a better understanding of layout techniques, such as using flexbox for centering, and applying media queries to make sure the design remains visually balanced across devices.
+I've been practicing foundational HTML and CSS skills on Frontend Mentor by building a simple centered card component. My focus has been on responsive design, ensuring that the card and its contents (image and text) adjust for different screen sizes. Through this, I've developed a better understanding of layout techniques, such as using flexbox for centering, and make my app responsive using rem units to make sure the design remains visually balanced across devices.
 
 ### Useful resources
 
-- [Resource 1](https://developer.mozilla.org/)- web.docs
-- [Resource 2](https://githowto.com/uk) - practical Git course
+- (https://developer.mozilla.org/)- web.docs
+- (https://githowto.com/uk) - practical Git course
+- https://fedmentor.dev/posts/font-size-px/- Why you shouldn't use pixels for font-size
