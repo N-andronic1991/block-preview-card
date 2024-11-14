@@ -139,12 +139,14 @@ body {
   font-weight: 800;
   font-size: 1.25rem;
 }
+.interactive-title {
+  cursor: pointer;
+  transition: color 250ms ease-out;
+}
 
 .interactive-title:hover,
 .interactive-title:focus {
   color: var(--hover-color);
-  cursor: pointer;
-  transition: color 250ms easy;
 }
 .main-text {
   margin-bottom: 24px;
@@ -169,10 +171,10 @@ body {
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
+  transition: color 250ms ease-out;
 }
 
 .attribution a:hover,
 .attribution a:focus {
   color: blue;
-  transition: color 250ms easy;
 }
