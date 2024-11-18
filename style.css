@@ -125,23 +125,25 @@ body {
   border-radius: 4px;
 
   font-weight: 800;
-  font-size: 0.75rem;
+  font-size: clamp(0.75rem, 1vw, 0.875rem);
   background-color: var(--background-color);
 }
 
 .text {
   margin-bottom: 12px;
-  font-size: 0.75rem;
+  font-size: clamp(0.75rem, 1vw, 0.875rem);
 }
 
 .title {
   margin-bottom: 12px;
   font-weight: 800;
-  font-size: 1.25rem;
+  font-size: clamp(1.25rem, 1vw, 1.5rem);
 }
 .interactive-title {
   cursor: pointer;
   transition: color 250ms ease-out;
+  color: currentColor;
+  text-decoration: none;
 }
 
 .interactive-title:hover,
@@ -151,7 +153,7 @@ body {
 .main-text {
   margin-bottom: 24px;
   color: var(--text-color);
-  font-size: 0.875rem;
+  font-size: clamp(0.875rem, 1vw, 1rem);
 }
 
 .thumb {
@@ -162,6 +164,7 @@ body {
 
 .text-name {
   font-weight: 800;
+  font-size: 0.875rem;
 }
 
 .attribution {
